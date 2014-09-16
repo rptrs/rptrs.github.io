@@ -6,5 +6,5 @@ indexes:
   category: "categories"
 baseurl: "http://rpt.rs"
 title: "rpt.rs"
-theme: "hyde"
+theme: "rptrs"
 ...
