@@ -9,7 +9,7 @@ hugo
 git add -A
 
 # Commit changes.
-msg="rebuilding site `date`"
+msg="rptrs rebuilding `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
