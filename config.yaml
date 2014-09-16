@@ -6,4 +6,5 @@ indexes:
   category: "categories"
 baseurl: "http://rpt.rs"
 title: "RAPTORS"
+theme: "hyde"
 ...
