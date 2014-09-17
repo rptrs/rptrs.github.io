@@ -16,5 +16,5 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin develop
+git push origin develop --force
 git subtree push --prefix=public git@github.com:rptrs/rptrs.github.io.git master
